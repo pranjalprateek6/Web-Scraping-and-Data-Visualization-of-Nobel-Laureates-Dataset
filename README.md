@@ -1,4 +1,9 @@
 # Web-Scraping-and-Data-Visualization-of-Nobel-Laureates-Dataset
+
+<p align="center">
+<img src="https://www.professorpotts.com/wp-content/gallery/the-economist/nobelprize.gif" width="500" height="400" />
+</p>
+
 This project involves web scraping data from Wikipedia to create a dataset of Nobel Laureates from 1901 to 2022. The collected data is then analyzed and visualized to gain insights into Nobel Prize trends over the years.
 
 ## Table of Contents
