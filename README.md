@@ -20,5 +20,6 @@ This project involves web scraping data from Wikipedia to create a dataset of No
 ## Data Visualization
 - Visualize the Nobel Laureates dataset using various charts and graphs to gain insights.
 
-##You can also checkout my code here!
+## You can also checkout my code here!
 Kaggle - [https://www.kaggle.com/code/pranjal666/simple-nobel-laureates-data-visualization]
+My Kaggle Dataset - [https://www.kaggle.com/datasets/pranjal666/nobel-laureates-dataset-1901-2022]
